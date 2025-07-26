@@ -1,6 +1,7 @@
 # CKEditor-Markdown-Plugin
-Markdown Plugin for CKEditor
-This is a plugin for CKEditor, you can use `markdown` mode in CKEditor. Moreover, your article in `WYSIWYG` mode can be translated to `markdown`.
+Markdown Plugin for CKEditor - also as a [Typesetter - plugin](https://github.com/gtbu/Ckeditor-4-Typesetter/tree/main/plugins)
+
+This is a plugin for CKEditor4, you can use `markdown` mode in CKEditor. Moreover, your article in `WYSIWYG` mode can be translated to `markdown`.
 
 ## Get Started
 It needs [ckeditor standard version](http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.7/ckeditor_4.4.7_standard.zip)
